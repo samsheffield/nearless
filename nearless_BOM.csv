@@ -1,0 +1,15 @@
+Reference,Quantity,Value,Footprint
+C1 C2,2,22p,0805
+C3 C4,2,22u,0805
+C5 C6 C7 C8,4,100n,0805
+D1 D2,2,1N5819HW,SOD-123
+J1 J2 J3 J4 J5 J6 J7,7,,Thonkiconn Jack
+P5 P6 P8 P10,4,,Header Pin 1x3
+P9 P11,2,,Header Socket 1x3
+P7,1,,Eurorack Power Header 2x5
+R23 R24,2,1k,0805
+R1 R3 R5 R6 R8 R10 R15 R16 R17 R18 R19 R20 R21 R22,14,100k,0805
+R4 R7,2,300k,0805
+R2 R9,2,1M67,0805
+U1 U2,2,LME49720,SOIC-8
+,2,,Dual Shunt/Jumper
